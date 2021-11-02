@@ -1,0 +1,185 @@
+ID,Date,Season,Team,Opponent,Venue
+0,2020-08-02,2020,Trondheims-Ørn,Klepp,Home
+1,2020-07-10,2020,Røa,Vålerenga,Away
+2,2020-08-30,2020,Trondheims-Ørn,Arna-Bjørnar,Home
+3,2020-08-26,2020,Vålerenga,Lyn,Home
+4,2020-09-12,2020,Arna-Bjørnar,Kolbotn,Home
+5,2020-10-31,2020,Klepp,Arna-Bjørnar,Home
+6,2020-08-08,2020,Sandviken,Trondheims-Ørn,Home
+7,2020-11-15,2020,Kolbotn,Røa,Away
+8,2020-08-12,2020,Røa,Vålerenga,Home
+9,2020-10-31,2020,Arna-Bjørnar,Klepp,Away
+10,2020-07-17,2020,LSK Kvinner,Røa,Away
+11,2020-08-22,2020,Kolbotn,Arna-Bjørnar,Home
+12,2020-10-04,2020,Lyn,Trondheims-Ørn,Away
+13,2020-11-07,2020,Klepp,Avaldsnes,Away
+14,2020-07-18,2020,Lyn,Sandviken,Away
+15,2020-09-26,2020,LSK Kvinner,Røa,Home
+16,2020-09-05,2020,Arna-Bjørnar,Avaldsnes,Home
+17,2020-10-17,2020,Røa,Sandviken,Away
+18,2020-08-01,2020,LSK Kvinner,Lyn,Away
+19,2020-07-10,2020,Vålerenga,Røa,Home
+20,2020-08-22,2020,Røa,Lyn,Away
+21,2020-10-16,2020,LSK Kvinner,Avaldsnes,Home
+22,2020-09-12,2020,Kolbotn,Arna-Bjørnar,Away
+23,2020-08-01,2020,Røa,Kolbotn,Away
+24,2020-09-12,2020,Trondheims-Ørn,Røa,Home
+25,2020-10-03,2020,Klepp,Sandviken,Home
+26,2020-07-25,2020,Lyn,Kolbotn,Home
+27,2020-09-05,2020,Sandviken,Vålerenga,Away
+28,2020-07-18,2020,Arna-Bjørnar,Avaldsnes,Away
+29,2020-09-05,2020,Vålerenga,Sandviken,Home
+30,2020-09-27,2020,Vålerenga,Klepp,Home
+31,2020-08-30,2020,Vålerenga,Kolbotn,Away
+32,2020-11-22,2020,Kolbotn,Medkila,Home
+33,2020-07-26,2020,Klepp,LSK Kvinner,Away
+34,2020-07-24,2020,Avaldsnes,Vålerenga,Away
+35,2020-10-04,2020,Trondheims-Ørn,Lyn,Home
+36,2020-11-07,2020,Lyn,Vålerenga,Home
+37,2020-11-07,2020,Trondheims-Ørn,Sandviken,Home
+38,2020-12-06,2020,Trondheims-Ørn,Klepp,Away
+39,2020-08-15,2020,Lyn,Arna-Bjørnar,Away
+40,2020-10-03,2020,LSK Kvinner,Arna-Bjørnar,Away
+41,2020-08-01,2020,Vålerenga,Arna-Bjørnar,Away
+42,2020-08-16,2020,Trondheims-Ørn,Vålerenga,Home
+43,2020-11-07,2020,Sandviken,Trondheims-Ørn,Away
+44,2020-07-18,2020,Avaldsnes,Arna-Bjørnar,Home
+45,2020-09-26,2020,Trondheims-Ørn,Kolbotn,Away
+46,2020-07-12,2020,LSK Kvinner,Sandviken,Home
+47,2020-08-22,2020,Sandviken,Klepp,Home
+48,2020-08-12,2020,Vålerenga,Røa,Away
+49,2020-10-18,2020,Lyn,Arna-Bjørnar,Home
+50,2020-09-05,2020,LSK Kvinner,Trondheims-Ørn,Home
+51,2020-07-11,2020,Klepp,Arna-Bjørnar,Away
+52,2020-08-15,2020,Avaldsnes,LSK Kvinner,Home
+53,2020-10-03,2020,Kolbotn,Avaldsnes,Away
+54,2020-10-18,2020,Klepp,Kolbotn,Away
+55,2020-08-16,2020,Sandviken,Kolbotn,Away
+56,2020-08-01,2020,Kolbotn,Røa,Home
+57,2020-07-10,2020,Kolbotn,Avaldsnes,Home
+58,2020-07-24,2020,Vålerenga,Avaldsnes,Home
+59,2020-10-31,2020,Lyn,Røa,Away
+60,2020-07-25,2020,Røa,Sandviken,Home
+61,2020-08-08,2020,Trondheims-Ørn,Sandviken,Away
+62,2020-10-03,2020,Avaldsnes,Kolbotn,Home
+63,2020-10-16,2020,Avaldsnes,LSK Kvinner,Away
+64,2020-07-18,2020,Klepp,Vålerenga,Home
+65,2020-08-16,2020,Vålerenga,Trondheims-Ørn,Away
+66,2020-08-01,2020,Lyn,LSK Kvinner,Home
+67,2020-08-22,2020,Avaldsnes,Trondheims-Ørn,Home
+68,2020-08-29,2020,Røa,Avaldsnes,Away
+69,2020-08-09,2020,Arna-Bjørnar,LSK Kvinner,Away
+70,2020-11-22,2020,Medkila,Kolbotn,Away
+71,2020-09-12,2020,Lyn,Sandviken,Home
+72,2020-08-15,2020,LSK Kvinner,Avaldsnes,Away
+73,2020-08-22,2020,Arna-Bjørnar,Kolbotn,Away
+74,2020-08-26,2020,Klepp,Avaldsnes,Home
+75,2020-09-12,2020,LSK Kvinner,Klepp,Away
+76,2020-08-01,2020,Arna-Bjørnar,Vålerenga,Home
+77,2020-10-18,2020,Vålerenga,Trondheims-Ørn,Home
+78,2020-10-18,2020,Trondheims-Ørn,Vålerenga,Away
+79,2020-09-27,2020,Klepp,Vålerenga,Away
+80,2020-07-10,2020,Avaldsnes,Kolbotn,Away
+81,2020-07-19,2020,Trondheims-Ørn,Kolbotn,Home
+82,2020-10-18,2020,Kolbotn,Klepp,Home
+83,2020-07-26,2020,LSK Kvinner,Klepp,Home
+84,2020-08-07,2020,Avaldsnes,Røa,Away
+85,2020-08-15,2020,Røa,Klepp,Away
+86,2020-11-07,2020,Arna-Bjørnar,Røa,Home
+87,2020-09-12,2020,Røa,Trondheims-Ørn,Away
+88,2020-09-12,2020,Avaldsnes,Vålerenga,Home
+89,2020-07-18,2020,Vålerenga,Klepp,Away
+90,2020-09-27,2020,Avaldsnes,Lyn,Away
+91,2020-09-27,2020,Lyn,Avaldsnes,Home
+92,2020-09-12,2020,Klepp,LSK Kvinner,Home
+93,2020-08-02,2020,Sandviken,Avaldsnes,Away
+94,2020-11-01,2020,Avaldsnes,Trondheims-Ørn,Away
+95,2020-08-22,2020,LSK Kvinner,Vålerenga,Home
+96,2020-08-30,2020,LSK Kvinner,Sandviken,Away
+97,2020-09-05,2020,Røa,Klepp,Home
+98,2020-08-08,2020,Klepp,Lyn,Home
+99,2020-10-17,2020,Sandviken,Røa,Home
+100,2020-07-18,2020,Sandviken,Lyn,Home
+101,2020-08-26,2020,Kolbotn,LSK Kvinner,Away
+102,2020-12-06,2020,Vålerenga,Arna-Bjørnar,Home
+103,2020-07-25,2020,Kolbotn,Lyn,Away
+104,2020-08-30,2020,Arna-Bjørnar,Trondheims-Ørn,Away
+105,2020-07-25,2020,Trondheims-Ørn,Arna-Bjørnar,Away
+106,2020-08-22,2020,Klepp,Sandviken,Away
+107,2020-07-25,2020,Sandviken,Røa,Away
+108,2020-07-11,2020,Trondheims-Ørn,Lyn,Away
+109,2020-10-31,2020,Kolbotn,Sandviken,Away
+110,2020-08-02,2020,Klepp,Trondheims-Ørn,Away
+111,2020-11-15,2020,Røa,Kolbotn,Home
+112,2020-08-26,2020,Avaldsnes,Klepp,Away
+113,2020-09-26,2020,Røa,LSK Kvinner,Away
+114,2020-12-06,2020,Sandviken,Avaldsnes,Home
+115,2020-08-26,2020,Sandviken,Arna-Bjørnar,Away
+116,2020-08-07,2020,Kolbotn,Vålerenga,Away
+117,2020-07-25,2020,Arna-Bjørnar,Trondheims-Ørn,Home
+118,2020-08-26,2020,Røa,Trondheims-Ørn,Home
+119,2020-07-04,2020,Vålerenga,Sandviken,Away
+120,2020-07-19,2020,Kolbotn,Trondheims-Ørn,Away
+121,2020-09-05,2020,Klepp,Røa,Away
+122,2020-08-09,2020,LSK Kvinner,Arna-Bjørnar,Home
+123,2020-12-06,2020,Lyn,LSK Kvinner,Away
+124,2020-09-26,2020,Kolbotn,Trondheims-Ørn,Home
+125,2020-10-31,2020,Røa,Lyn,Home
+126,2020-08-22,2020,Trondheims-Ørn,Avaldsnes,Away
+127,2020-08-26,2020,Lyn,Vålerenga,Away
+128,2020-07-11,2020,Lyn,Trondheims-Ørn,Home
+129,2020-10-03,2020,Sandviken,Klepp,Away
+130,2020-07-04,2020,Lyn,Avaldsnes,Away
+131,2020-10-18,2020,Arna-Bjørnar,Lyn,Away
+132,2020-07-05,2020,Klepp,Kolbotn,Home
+133,2020-11-01,2020,LSK Kvinner,Vålerenga,Away
+134,2020-11-25,2020,Medkila,Kolbotn,Home
+135,2020-08-30,2020,Lyn,Klepp,Home
+136,2020-07-04,2020,Røa,Arna-Bjørnar,Home
+137,2020-09-05,2020,Avaldsnes,Arna-Bjørnar,Away
+138,2020-08-08,2020,Lyn,Klepp,Away
+139,2020-08-02,2020,Avaldsnes,Sandviken,Home
+140,2020-08-15,2020,Arna-Bjørnar,Lyn,Home
+141,2020-11-07,2020,Avaldsnes,Klepp,Home
+142,2020-11-01,2020,Vålerenga,LSK Kvinner,Home
+143,2020-08-26,2020,LSK Kvinner,Kolbotn,Home
+144,2020-08-30,2020,Klepp,Lyn,Away
+145,2020-08-15,2020,Klepp,Røa,Home
+146,2020-12-06,2020,Klepp,Trondheims-Ørn,Home
+147,2020-08-07,2020,Røa,Avaldsnes,Home
+148,2020-09-12,2020,Vålerenga,Avaldsnes,Away
+149,2020-11-25,2020,Kolbotn,Medkila,Away
+150,2020-08-26,2020,Trondheims-Ørn,Røa,Away
+151,2020-09-06,2020,Kolbotn,Lyn,Home
+152,2020-12-06,2020,Arna-Bjørnar,Vålerenga,Away
+153,2020-07-03,2020,LSK Kvinner,Trondheims-Ørn,Away
+154,2020-07-12,2020,Sandviken,LSK Kvinner,Away
+155,2020-11-07,2020,LSK Kvinner,Kolbotn,Away
+156,2020-09-05,2020,Trondheims-Ørn,LSK Kvinner,Away
+157,2020-08-29,2020,Avaldsnes,Røa,Home
+158,2020-07-11,2020,Arna-Bjørnar,Klepp,Home
+159,2020-11-01,2020,Trondheims-Ørn,Avaldsnes,Home
+160,2020-11-07,2020,Røa,Arna-Bjørnar,Away
+161,2020-07-05,2020,Kolbotn,Klepp,Away
+162,2020-08-22,2020,Lyn,Røa,Home
+163,2020-09-27,2020,Sandviken,Arna-Bjørnar,Home
+164,2020-07-04,2020,Sandviken,Vålerenga,Home
+165,2020-08-07,2020,Vålerenga,Kolbotn,Home
+166,2020-08-22,2020,Vålerenga,LSK Kvinner,Away
+167,2020-12-06,2020,LSK Kvinner,Lyn,Home
+168,2020-11-07,2020,Vålerenga,Lyn,Away
+169,2020-08-30,2020,Sandviken,LSK Kvinner,Home
+170,2020-08-30,2020,Kolbotn,Vålerenga,Home
+171,2020-09-06,2020,Lyn,Kolbotn,Away
+172,2020-07-03,2020,Trondheims-Ørn,LSK Kvinner,Home
+173,2020-10-31,2020,Sandviken,Kolbotn,Home
+174,2020-08-16,2020,Kolbotn,Sandviken,Home
+175,2020-12-06,2020,Avaldsnes,Sandviken,Away
+176,2020-10-03,2020,Arna-Bjørnar,LSK Kvinner,Home
+177,2020-07-04,2020,Avaldsnes,Lyn,Home
+178,2020-08-26,2020,Arna-Bjørnar,Sandviken,Home
+179,2020-09-27,2020,Arna-Bjørnar,Sandviken,Away
+180,2020-07-17,2020,Røa,LSK Kvinner,Home
+181,2020-11-07,2020,Kolbotn,LSK Kvinner,Home
+182,2020-07-04,2020,Arna-Bjørnar,Røa,Away
+183,2020-09-12,2020,Sandviken,Lyn,Away

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>INF161 Soccer Predictions</title>
+</head>
+
+<body>
+ <div>
+	<h1>INF161 Soccer Predictions</h1>
+
+     <!-- User input -->
+    <form action="{{ url_for('predict')}}" method="post">
+    	<input type="text" name="Team" placeholder="Team" required="required" />
+        <input type="text" name="Opponent" placeholder="Opponent" required="required" />
+		<input type="text" name="Venue" placeholder="Venue" required="required" />
+        <input type="text" name="Game number in Season" placeholder="Game number in Season" />
+
+        <button type="submit">Predict</button>
+    </form>
+
+   <br>
+   <br>
+     {{ prediction_text }}
+   <br>
+     {{ predicted_scores }}
+ </div>
+</body>
+
+</html>
