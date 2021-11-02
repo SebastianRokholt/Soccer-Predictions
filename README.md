@@ -24,7 +24,6 @@ Creating a simple Flask application for the model, where a user can enter two To
 * [Prepared Data]() - The prepared data files after running [preparations.ipynb]()
 * [Part 2: analysis-and-modelling.ipynb]() - Exploratory data analysis, preprocessing and modelling.
 * [Part 3: soccer-predictions-website]() - Files for running the Flask web application.
-* 
 
 
 ## Setup
