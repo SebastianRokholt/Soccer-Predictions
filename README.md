@@ -1,5 +1,5 @@
 # Soccer Predictions
-### *Predicting the outcome of matches for the Norwegian women's soccer championships (Toppserien)*
+### Predicting the outcome of matches for the Norwegian women's soccer championships (Toppserien)
 This repository contains the code for a Data Science project about predicting the outcome of soccer matches, including a simple web application built with Flask.
 
 
