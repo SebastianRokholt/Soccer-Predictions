@@ -10,12 +10,12 @@ soccer matches in the years 2017 - 2019. In addition, the repository contains an
 which was used for the final predictions at the end of the project. These predictions were submitted to the INF161 course's [Kaggle contest](https://www.kaggle.com/c/inf161-innforing-i-data-science-2021/overview). 
 
 ## The Process
-**Part 1: Preparations** 
-Data inspection, cleaning and wrangling. Feature engineering and some simple visualisations.
-**Part 2: Modelling** 
-Exploratory data analysis and machine learning modelling. Evaluations and predictions on the 2020 data.
-**Part 3: Implementation** 
-Creating a simple Flask application for the model, where a user can enter two Toppserien teams and receive a predicted match outcome.
+**Part 1: Preparations** <br>
+Data inspection, cleaning and wrangling. Feature engineering and some simple visualisations.<br>
+**Part 2: Modelling** <br>
+Exploratory data analysis and machine learning modelling. Evaluations and predictions on the 2020 data.<br>
+**Part 3: Implementation** <br>
+Creating a simple Flask application for the model, where a user can enter two Toppserien teams and receive a predicted match outcome.<br>
 
 
 ## Repository Content
