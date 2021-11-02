@@ -25,3 +25,10 @@ Creating a simple Flask application for the model, where a user can enter two To
 * [Part 2: analysis-and-modelling.ipynb]() - Exploratory data analysis, preprocessing and modelling.
 * [Part 3: soccer-predictions-website]() - Files for running the Flask web application.
 * 
+
+
+## Setup
+1) Clone repository. To run the Flask application, download `soccer-predictions-website` and `model.pkl` as a minimum.
+2) Make sure that Python 3.6 or newer is installed. I recommend running the .ipynb files in Jupyter Notebook or Google Colab. 
+3) run `python -m pip install -r 'requirements.txt'` in the terminal to install dependencies.
+4) run `python app.py` to run the web application locally at port 8080.
